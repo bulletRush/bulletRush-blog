@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "SoWater, So What?"
+theme = "ananke"
+publishDir = "docs"
