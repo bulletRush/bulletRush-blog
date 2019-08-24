@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://bulletrush.github.io/bulletRush-blog/"
 languageCode = "en-us"
 title = "SoWater, So What?"
 theme = "ananke"
