@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on SoWater, So What?</title>
+    <title>杂谈 on SoWater, So What?</title>
     <link>https://bulletrush.github.io/bulletRush-blog/posts/</link>
-    <description>Recent content in Posts on SoWater, So What?</description>
+    <description>Recent content in 杂谈 on SoWater, So What?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2019 01:58:08 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2019 20:39:26 +0800</lastBuildDate>
     
 	<atom:link href="https://bulletrush.github.io/bulletRush-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,10 +17,14 @@
       <pubDate>Sun, 25 Aug 2019 01:58:08 +0800</pubDate>
       
       <guid>https://bulletrush.github.io/bulletRush-blog/posts/hello/</guid>
-      <description>2019年08月25日02:03:52，第N次开始我的写作计划。本博客预计将会涉及到的内容：
- 个人对于职业发展的一些思考 一些读书笔记 一些技术总结 一些生活感悟  本博客将不会类似于日志流水账的形式；每篇博文都会涉及到某一个具体的话题，重复的话题将不会新增新的博文；每当有新的理解或其他补充内容时，都将在原有博文的基础上进行更新。
-本博客的内容将会不同步的在github/coding以及简书上更新：
- Github：TODO，第一时间更新，含未完成文章 Coding: TODO（待文章累积一定数量后更新） 简书：TODO（待文章累积一定数量后更新）  本博客将会使用github page静态托管，使用gohugo生成，评论功能使用utterances实现</description>
+      <description>&lt;p&gt;2019年08月25日02:03:52，第N次开始我的写作计划。本博客预计将会涉及到的内容：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;个人对于职业发展的一些思考&lt;/li&gt;
+&lt;li&gt;一些读书笔记&lt;/li&gt;
+&lt;li&gt;一些技术总结&lt;/li&gt;
+&lt;li&gt;一些生活感悟&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>

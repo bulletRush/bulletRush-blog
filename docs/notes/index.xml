@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>读万卷书 on SoWater, So What?</title>
+    <link>https://bulletrush.github.io/bulletRush-blog/notes/</link>
+    <description>Recent content in 读万卷书 on SoWater, So What?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2019 20:39:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://bulletrush.github.io/bulletRush-blog/notes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

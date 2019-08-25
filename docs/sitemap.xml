@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bulletrush.github.io/bulletRush-blog/posts/hello/</loc>
-    <lastmod>2019-08-25T01:58:08+08:00</lastmod>
+    <loc>https://bulletrush.github.io/bulletRush-blog/tutorials/</loc>
+    <lastmod>2019-08-25T20:41:13+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bulletrush.github.io/bulletRush-blog/posts/</loc>
+    <lastmod>2019-08-25T20:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bulletrush.github.io/bulletRush-blog/notes/</loc>
+    <lastmod>2019-08-25T20:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bulletrush.github.io/bulletRush-blog/about/</loc>
+    <lastmod>2019-08-25T17:04:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bulletrush.github.io/bulletRush-blog/posts/hello/</loc>
     <lastmod>2019-08-25T01:58:08+08:00</lastmod>
   </url>
   
