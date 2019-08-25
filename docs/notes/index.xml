@@ -11,5 +11,14 @@
 	<atom:link href="https://bulletrush.github.io/bulletRush-blog/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>程序员的自我修养（四星推荐）</title>
+      <link>https://bulletrush.github.io/bulletRush-blog/notes/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</link>
+      <pubDate>Sun, 25 Aug 2019 17:17:44 +0800</pubDate>
+      
+      <guid>https://bulletrush.github.io/bulletRush-blog/notes/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/</guid>
+      <description>&lt;p&gt;总结：比较适合新手程序员或者工作一段时间后产生了些许迷茫的程序员。我个人对于书中的大部分内容都深有感悟，而且基本上也在这么做了；如果你还没有这个意识，那么或许你应该读一下本书。&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
